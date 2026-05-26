@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manuel+Jacobo+%F0%9F%91%8B;Full+Stack+Developer;Mobile+%2B+Web+Engineer;Building+products+that+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manuel+Jacobo+%F0%9F%91%8B;Full+Stack+Developer;Mobile+%2B+Web+Engineer;Building+products+that+scale" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manueljacobo-nexgen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.jacobo@nexgen.mx)
-[![Nexgen](https://img.shields.io/badge/Nexgen-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nexgen.mx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manueljacobo-nexgen)
+[![Email](https://img.shields.io/badge/manuel.jacobo%40nexgen.mx-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:manuel.jacobo@nexgen.mx)
+[![Nexgen](https://img.shields.io/badge/Nexgen%20MX-1a1a2e?style=flat-square&logo=rocket.chat&logoColor=00B4D8)](https://nexgen.mx)
 
 </div>
 
@@ -58,14 +58,41 @@ Full Stack Developer at **[Nexgen](https://nexgen.mx)** — building mobile and 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manueljacobo-nexgen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueljacobo-nexgen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manueljacobo-nexgen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueljacobo-nexgen&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&include_all_commits=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manueljacobo-nexgen&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manueljacobo-nexgen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=manueljacobo-nexgen&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manueljacobo-nexgen&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Contribution Metrics
+
+<div align="center">
+
+| Metric | Details |
+|--------|---------|
+| Repos | Public + Private contributions counted |
+| Streak | Daily commit consistency tracked |
+| Languages | Dart · TypeScript · JavaScript · SQL |
+| Focus | Mobile-first · Offline-capable · REST APIs |
 
 </div>
 
@@ -83,6 +110,8 @@ Full Stack Developer at **[Nexgen](https://nexgen.mx)** — building mobile and 
 ---
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=manueljacobo-nexgen&color=00B4D8&style=flat-square&label=Profile+Views)
 
 *Building things that work — even offline.*
 
